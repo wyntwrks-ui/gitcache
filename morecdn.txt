@@ -5,3 +5,5 @@ dl.google.com
 dl-ssl.google.com
 redirector.gvt1.com
 redirector.gvt2.com
+fast.com
+speedtest.net
