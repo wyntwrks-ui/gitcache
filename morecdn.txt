@@ -7,3 +7,7 @@ redirector.gvt1.com
 redirector.gvt2.com
 fast.com
 speedtest.net
+www.speedtest.net
+www.fast.com
+googlevideo.com
+www.googlevideo.com
