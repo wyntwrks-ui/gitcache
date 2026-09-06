@@ -36,9 +36,9 @@
       "domain_files": ["epicgames.txt"]
     },
     {
-  "name": "googleplay",
-  "description": "CDN for Google Play and Android content",
-  "domain_files": ["googleplay.txt"]
+     "name": "morecdn",
+     "description": "Additional CDN domains",
+     "domain_files": ["morecdn.txt"]
     },
     {
       "name": "frontier",
