@@ -5,8 +5,3 @@ dl.google.com
 dl-ssl.google.com
 redirector.gvt1.com
 redirector.gvt2.com
-gvt1.com
-gvt2.com
-googleusercontent.com
-googleapis.com
-android.com
