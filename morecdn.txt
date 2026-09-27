@@ -17,3 +17,19 @@ geo2.ggpht.com
 geo3.ggpht.com
 
 cdn2.palmplaystore.com
+appldnld.apple.com
+mesu.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+swcdn.apple.com
+swdownload.apple.com
+updates-http.cdn-apple.com
+gg.apple.com
+gs.apple.com
+archive.ubuntu.com
+security.ubuntu.com
+releases.ubuntu.com
+old-releases.ubuntu.com
+deb.debian.org
+ftp.debian.org
+cdimage.debian.org
