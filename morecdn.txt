@@ -1,76 +1,23 @@
-gvt1.com
-gvt2.com
-gvt3.com
-lh3.ggpht.com
-lh4.ggpht.com
-lh5.ggpht.com
-lh6.ggpht.com
-geo0.ggpht.com
-geo1.ggpht.com
-geo2.ggpht.com
-geo3.ggpht.com
-cdn2.palmplaystore.com
+# Google / Android downloads
+dl.google.com
+redirector.gvt1.com
+redirector.gvt2.com
+redirector.gvt3.com
 
+# Apple software updates
 appldnld.apple.com
 oscdn.apple.com
-osrecovery.apple.com
 swcdn.apple.com
 swdownload.apple.com
 updates-http.cdn-apple.com
 
-s3.amazonaws.com
-s3.us-east-1.amazonaws.com
-s3.us-west-2.amazonaws.com
-digitaloceanspaces.com
-linodeobjects.com
-wasabisys.com
-backblazeb2.com
-r2.cloudflarestorage.com
+# Debian
+deb.debian.org
+ftp.debian.org
+security.debian.org
+cdimage.debian.org
 
-cdn.discordapp.com
-media.discordapp.net
-images.ctfassets.net
-assets.ctfassets.net
-static.wikia.nocookie.net
-static.wixstatic.com
-static1.squarespace.com
-assets.website-files.com
-
-cdn.shopify.com
-shopifycdn.com
-cdn.bigcommerce.com
-
-wp.com
-gravatar.com
-wpengine.net
-
-use.typekit.net
-typekit.net
-
-registry.npmjs.org
-registry.yarnpkg.com
-files.pythonhosted.org
-rubygems.org
-repo.maven.apache.org
-repo1.maven.org
-repo.gradle.org
-
-api.nuget.org
-pkgs.dev.azure.com
-
-download.docker.com
-registry-1.docker.io
-production.cloudflare.docker.com
-dl.k8s.io
-packages.cloud.google.com
-
-download.mozilla.org
-archive.mozilla.org
-download.virtualbox.org
-download.videolan.org
-get.videolan.org
-download.blender.org
-
+# Ubuntu
 archive.ubuntu.com
 security.ubuntu.com
 releases.ubuntu.com
@@ -78,39 +25,51 @@ old-releases.ubuntu.com
 ports.ubuntu.com
 cdimage.ubuntu.com
 
-deb.debian.org
-ftp.debian.org
-security.debian.org
-cdimage.debian.org
-snapshot.debian.org
-
+# Linux kernel
 mirrors.edge.kernel.org
 
+# Rocky / Alma / CentOS
 repo.almalinux.org
 dl.rockylinux.org
 vault.centos.org
 mirror.centos.org
+
+# OpenSUSE
 download.opensuse.org
 
-download.oracle.com
-javadl.oracle.com
+# Mozilla
+download.mozilla.org
+archive.mozilla.org
 
-download.jetbrains.com
-download.sublimetext.com
+# VirtualBox
+download.virtualbox.org
+
+# VLC
+download.videolan.org
+get.videolan.org
+
+# Blender
+download.blender.org
+
+# GIMP / KDE / GNOME / Qt
 download.gimp.org
 download.kde.org
 download.gnome.org
 download.qt.io
 
-downloads.plex.tv
-download.handbrake.fr
+# JetBrains / Sublime
+download.jetbrains.com
+download.sublimetext.com
 
+# Docker / Kubernetes
+download.docker.com
+dl.k8s.io
+packages.cloud.google.com
+
+# Windows updates
 download.windowsupdate.com
 
+# Hardware updates
 download.lenovo.com
 download.dell.com
 downloads.hp.com
-
-edgesuite.net
-akamaized.net
-
