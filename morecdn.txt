@@ -12,14 +12,11 @@ geo3.ggpht.com
 cdn2.palmplaystore.com
 
 appldnld.apple.com
-mesu.apple.com
 oscdn.apple.com
 osrecovery.apple.com
 swcdn.apple.com
 swdownload.apple.com
 updates-http.cdn-apple.com
-gg.apple.com
-gs.apple.com
 
 s3.amazonaws.com
 s3.us-east-1.amazonaws.com
@@ -41,37 +38,28 @@ assets.website-files.com
 
 cdn.shopify.com
 shopifycdn.com
-myshopify.com
 cdn.bigcommerce.com
-bigcommerce.com
 
 wp.com
-wordpress.com
 gravatar.com
 wpengine.net
 
-fonts.adobe.com
 use.typekit.net
 typekit.net
 
-npmjs.com
 registry.npmjs.org
 registry.yarnpkg.com
-yarnpkg.com
-pypi.org
 files.pythonhosted.org
 rubygems.org
 repo.maven.apache.org
 repo1.maven.org
 repo.gradle.org
 
-nuget.org
 api.nuget.org
 pkgs.dev.azure.com
 
 download.docker.com
 registry-1.docker.io
-auth.docker.io
 production.cloudflare.docker.com
 dl.k8s.io
 packages.cloud.google.com
@@ -97,7 +85,6 @@ cdimage.debian.org
 snapshot.debian.org
 
 mirrors.edge.kernel.org
-kernel.org
 
 repo.almalinux.org
 dl.rockylinux.org
@@ -118,18 +105,12 @@ download.qt.io
 downloads.plex.tv
 download.handbrake.fr
 
-play.google.com
-play.googleapis.com
-android.clients.google.com
-android.googleapis.com
-
-download.microsoft.com
 download.windowsupdate.com
-delivery.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-prod.do.dsp.mp.microsoft.com
-packages.microsoft.com
 
 download.lenovo.com
 download.dell.com
 downloads.hp.com
+
+edgesuite.net
+akamaized.net
+
