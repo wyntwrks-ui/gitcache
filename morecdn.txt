@@ -8,8 +8,6 @@ oscdn.apple.com
 swcdn.apple.com
 swdownload.apple.com
 download.microsoft.com
-*.officecdn.microsoft.com
-*.officecdn.microsoft.com.edgesuite.net
 *.cdn.office.net
 deb.debian.org
 ftp.debian.org
