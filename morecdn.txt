@@ -1,75 +1,46 @@
-# Google / Android downloads
 dl.google.com
 redirector.gvt1.com
 redirector.gvt2.com
 redirector.gvt3.com
-
-# Apple software updates
+updates-http.cdn-apple.com
 appldnld.apple.com
 oscdn.apple.com
 swcdn.apple.com
 swdownload.apple.com
-updates-http.cdn-apple.com
-
-# Debian
+download.microsoft.com
+*.officecdn.microsoft.com
+*.officecdn.microsoft.com.edgesuite.net
+*.cdn.office.net
 deb.debian.org
 ftp.debian.org
 security.debian.org
 cdimage.debian.org
-
-# Ubuntu
+cdn-fastly.deb.debian.org
 archive.ubuntu.com
 security.ubuntu.com
 releases.ubuntu.com
 old-releases.ubuntu.com
 ports.ubuntu.com
 cdimage.ubuntu.com
-
-# Linux kernel
 mirrors.edge.kernel.org
-
-# Rocky / Alma / CentOS
 repo.almalinux.org
 dl.rockylinux.org
 vault.centos.org
 mirror.centos.org
-
-# OpenSUSE
 download.opensuse.org
-
-# Mozilla
+public-dl.suse.com
+updates.suse.com
+installer-updates.suse.com
 download.mozilla.org
 archive.mozilla.org
-
-# VirtualBox
 download.virtualbox.org
-
-# VLC
 download.videolan.org
 get.videolan.org
-
-# Blender
 download.blender.org
-
-# GIMP / KDE / GNOME / Qt
 download.gimp.org
 download.kde.org
 download.gnome.org
 download.qt.io
-
-# JetBrains / Sublime
-download.jetbrains.com
-download.sublimetext.com
-
-# Docker / Kubernetes
 download.docker.com
-dl.k8s.io
-packages.cloud.google.com
-
-# Windows updates
-download.windowsupdate.com
-
-# Hardware updates
+downloads.sourceforge.net
 download.lenovo.com
-download.dell.com
-downloads.hp.com
