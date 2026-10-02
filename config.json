@@ -1,0 +1,36 @@
+{
+  "combined_output": true,
+  "ips": {
+    "generic": ["10.10.10.10"]
+  },
+  "cache_domains": {
+    "default": "generic",
+    "arenanet": "generic",
+    "blizzard": "generic",
+    "bsg": "generic",
+    "cityofheroes": "generic",
+    "cod": "generic",
+    "daybreak": "generic",
+    "epicgames": "generic",
+    "morecdn": "generic",
+    "frontier": "generic",
+    "neverwinter": "generic",
+    "nexusmods": "generic",
+    "nintendo": "generic",
+    "origin": "generic",
+    "pathofexile": "generic",
+    "renegadex": "generic",
+    "riot": "generic",
+    "rockstar": "generic",
+    "sony": "generic",
+    "square": "generic",
+    "steam": "generic",
+    "teso": "generic",
+    "test": "generic",
+    "uplay": "generic",
+    "warframe": "generic",
+    "wargaming": "generic",
+    "wsus": "generic",
+    "xboxlive": "generic"
+  }
+}
