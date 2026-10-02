@@ -4,6 +4,7 @@ cdn1.unrealengine.com
 cdn2.epicgames.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
+cdn4.unrealengine.com
 cloudflare.epicgamescdn.com
 download.epicgames.com
 download2.epicgames.com
@@ -12,3 +13,4 @@ download4.epicgames.com
 egdownload.fastly-edge.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
+epicgames-download1-1251447533.file.myqcloud.com
